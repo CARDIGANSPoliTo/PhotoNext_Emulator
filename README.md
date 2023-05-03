@@ -1,0 +1,1 @@
+SmartScan device emulator for the PhotoNext project
